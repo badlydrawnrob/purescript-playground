@@ -1,7 +1,7 @@
 {
-  "name": "purescript-playground",
+  "name": "Spago repl testing",
   "version": "1.0.0",
-  "description": "Trying out purescript",
+  "description": "Trying out the purescript repl",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
