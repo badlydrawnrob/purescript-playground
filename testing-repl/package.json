@@ -1,0 +1,15 @@
+{
+  "name": "purescript-playground",
+  "version": "1.0.0",
+  "description": "Trying out purescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "purescript": "^0.15.15",
+    "spago": "^0.21.0"
+  }
+}
