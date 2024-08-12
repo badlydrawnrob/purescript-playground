@@ -1,8 +1,9 @@
 # Purescript Playground
 
 > It was either Purescript or OCaml!
+> Consider using [`htmx`](https://www.youtube.com/watch?v=3nSDA0Nd_0I) instead ☺️
 
-Taking a spin with "Functional Programming Made Easier" book, which _says_ it's not too maths heavy, but it's already using flippin' maths notation. I might bail, but giving it a try.
+Taking a spin with "[Functional Programming Made Easier](https://discourse.purescript.org/t/new-purescript-book-functional-programming-made-easier/2390/11)" book, which _says_ it's not too maths heavy, but it's already using flippin' maths notation. I might bail, but giving it a try.
 
 ## The basic goal
 
