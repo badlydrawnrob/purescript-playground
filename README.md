@@ -9,6 +9,8 @@ Purescript is NOT popular, but it might be the closest thing to Haskell and Elm 
 
 ## Tips
 
+> See the "Functional Programming Made Easier" book for project setup guide: Part 1, Chapter 4.
+
 1. `npx spago repl` to start
 2. [`:paste`](https://stackoverflow.com/questions/60594693/purescript-how-to-define-function-signature-in-repl) for multiple lines of code
 3. Problems with packages? Probably need to [install them](https://stackoverflow.com/questions/31929406/unknown-module-data-list-in-psci#comment121794172_32004727) (with spago)
