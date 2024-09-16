@@ -1,7 +1,7 @@
 {
-  "name": "Spago repl testing",
+  "name": "fp-made-easier",
   "version": "1.0.0",
-  "description": "Trying out the purescript repl",
+  "description": "The Functional Programming Made Easier book",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
