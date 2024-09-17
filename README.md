@@ -3,9 +3,10 @@
 > It was either Purescript or OCaml!
 > Consider using [`htmx`](https://www.youtube.com/watch?v=3nSDA0Nd_0I) instead ☺️
 
-Taking a spin with "[Functional Programming Made Easier](https://discourse.purescript.org/t/new-purescript-book-functional-programming-made-easier/2390/11)" book, which _says_ it's not too maths heavy, but it's already using flippin' maths notation. I might bail, but giving it a try.
+Taking a spin with "[Functional Programming Made Easier](https://discourse.purescript.org/t/new-purescript-book-functional-programming-made-easier/2390/11)" book, which _says_ it's not too maths heavy, but it's already using flippin' maths notation. I might bail, but giving it a try. Purescript is NOT popular, but it might be the closest thing to Haskell and Elm Lang, so _I think_ it's worth familiarising myself with, and hope that there's enough transferable knowledge to [Lisp](https://htdp.org/2024-8-20/Book/part_two.html)[^1], [Gleam](https://gleam.run/), and other langs.
 
-Purescript is NOT popular, but it might be the closest thing to Haskell and Elm Lang, so _I think_ it's worth familiarising myself with, and hope that there's enough transferable knowledge to [Lisp](https://htdp.org/2024-8-20/Book/part_two.html)[^1], [Gleam](https://gleam.run/),
+However, looking at the [Haskell operators](https://tech.fpcomplete.com/haskell/tutorial/operators/), I think it might be too much of an arse to learn.
+
 
 ## Tips
 
