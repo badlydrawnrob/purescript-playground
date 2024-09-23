@@ -21,3 +21,6 @@ In my opinion this pedantry is why hardly anyone uses statically typed languages
     - <s>And only hold a single variable (I think), which can be</s> a distinct type `Error String` or a type variable `Error any`
     - <s>A product type holds many variables `Triplet a b c` (there's also a record version `type Something = Something { ... }` in the book. Is _that_ a product type? Does it even matter?)</s>
     - **TL;DR** You don't necessarily need a word to describe these other than `record`, `type alias`, `types`, `type variable`, `arguments`, `constructor functions`, etc. The basic terminology serves. You can explain the parts quite succinctly and they combine together in various ways.
+2. The above (I think) touches on "Set Theory" which is interesting (Unions and Intersects) but I just don't think it's necessary. You can explain combinations of sum types and product types without going into that?
+    - If you _really_ want to understand it, there's books (like this one) that go heavy in on it.
+    - For just getting stuff done, show some concrete storied examples that show _how they're used_ rather than highly technical explanations.
