@@ -11,7 +11,7 @@ I'm probably going to bail on this book, but might zip through it and see if the
 
 1. To be able to write good Elm code.
 2. To be able to teach basic/intermediate programming.
-3. To build a prototype with simple data.
+3. To build a prototype with simple data.[^1]
 4. To validate simple business models and make money.
 5. To make enough money to make good art.
 6. To potentially make code as art with a book.
@@ -28,7 +28,7 @@ I'm not interested in:
 > It was either Purescript or OCaml!
 > Consider using [`htmx`](https://www.youtube.com/watch?v=3nSDA0Nd_0I) instead ☺️
 
-Taking a spin with "[Functional Programming Made Easier](https://discourse.purescript.org/t/new-purescript-book-functional-programming-made-easier/2390/11)" book, which _says_ it's not too maths heavy, but it's already using flippin' maths notation. Purescript is NOT popular, but it might be the closest thing to Haskell and Elm Lang, so _I think_ it's worth familiarising myself with, and hope that there's enough transferable knowledge to [Lisp](https://htdp.org/2024-8-20/Book/part_two.html)[^1], [Gleam](https://gleam.run/), and other langs.
+Taking a spin with "[Functional Programming Made Easier](https://discourse.purescript.org/t/new-purescript-book-functional-programming-made-easier/2390/11)" book, which _says_ it's not too maths heavy, but it's already using flippin' maths notation. Purescript is NOT popular, but it might be the closest thing to Haskell and Elm Lang, so _I think_ it's worth familiarising myself with, and hope that there's enough transferable knowledge to [Lisp](https://htdp.org/2024-8-20/Book/part_two.html)[^2], [Gleam](https://gleam.run/), and other langs.
 
 However, looking at the [Haskell operators](https://tech.fpcomplete.com/haskell/tutorial/operators/), I think it might be too much of an arse to learn.
 
@@ -43,4 +43,6 @@ However, looking at the [Haskell operators](https://tech.fpcomplete.com/haskell/
 
 
 
-[^1]: Some day I need to whizz through the rest of this book (see GitHub: I think I completed more than what's saved but I'm uncertain). Clojure or other lisp langs may be something to contend with in future (but remember I'm not a proper programmer!)
+[^1]: Light, and I MEAN light, data structures and backend only if absolutely necessary. I only really want to learn things like SQL to a level whereby I could run some queries for customer data. I'm not in the business of creating databases from scratch, or dealing with heavy APIs. It's basic prototypes that are _fun_ to work with, and hiring for serious work.
+
+[^2]: Some day I need to whizz through the rest of this book (see GitHub: I think I completed more than what's saved but I'm uncertain). Clojure or other lisp langs may be something to contend with in future (but remember I'm not a proper programmer!)
